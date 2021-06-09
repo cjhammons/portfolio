@@ -1,6 +1,8 @@
 
 # Data Analytics
 
+- [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
+
 # Web Development
 
 - [Fyyur](https://github.com/cjhammons/fyyur): Platform for artists and musical venues to connect built on flask.
