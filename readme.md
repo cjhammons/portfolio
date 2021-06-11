@@ -1,7 +1,7 @@
 
 # Data Analytics
 
-- [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data/blob/master/README.md): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
+- [Cleaning Medical Data](https://raw.githubusercontent.com/cjhammons/Cleaning-Medical-Data/master/README.md?token=AC52URK3NDJO6KMJKLCTZK3AZUHGM): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
 
 # Web Development
 
