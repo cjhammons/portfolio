@@ -9,7 +9,7 @@
 - [Trivia API](https://github.com/cjhammons/trivia_api): API for running a trivia game built on flask.
 - [Coffee Shop](https://github.com/cjhammons/CoffeeShop): API for a coffee shop built on flask using Auth0 for managing roles.
 - [Casting Agency](https://github.com/cjhammons/casting-agency): API for running a casting agency built on flask and using Auth0 for managing roles.
-- [eQuip Firebase](https://github.com/cjhammons/eQuip-Cloud-Functions): Backend webservices for an app that lets users rent out outdoor equipment. Built on google's Firebase using NodeJS.
+- [eQuip Backend](https://github.com/cjhammons/eQuip-Cloud-Functions): Backend webservices for an app that lets users rent out outdoor equipment. Built on google's GCP (formerly Firebase) using NodeJS.
 
 
 
