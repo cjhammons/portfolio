@@ -2,7 +2,7 @@
 # Data Science
 
 - [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
-- [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/D207-Exploratory-Data-Analysis/tree/master)
+- [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/Exploratory-Data-Analysis-On-Medical-Data): Examined medical patient data using statistical techniques such as Chi-Square in JupyterLab
 
 # Web Development
 
