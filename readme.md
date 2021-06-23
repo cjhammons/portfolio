@@ -1,7 +1,8 @@
 
-# Data Analytics
+# Data Science
 
-- [Cleaning Medical Data](https://raw.githubusercontent.com/cjhammons/Cleaning-Medical-Data/master/README.md?token=AC52URK3NDJO6KMJKLCTZK3AZUHGM): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
+- [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
+- [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/D207-Exploratory-Data-Analysis/tree/master)
 
 # Web Development
 
@@ -19,6 +20,3 @@
 - [DiceBot](https://github.com/cjhammons/Discord-Dice-Bot): Discord bot for simulating dice rolls, built on NodeJS.
 
 
-# School Projects
-
-- [Stargazer](https://github.com/cjhammons/Software-Process-stargazer)
