@@ -29,5 +29,5 @@
 
 ## Certifications
 
-- [Google Data Analytics](certificates/google-data-analytics.pdf)
-
+- [Google - Data Analytics](certificates/google-data-analytics.pdf)
+- [Udacity - Full Stack Engineer](certificates/Udacity-full-stack.pdf)
