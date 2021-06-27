@@ -16,7 +16,7 @@
 
 ## Bots
 
-- [Gladbot420](https://github.com/cjhammons/Gladbot420): Twitch chatbot to annoy myself and the people in my chat while I stream. Built on NodeJS.
+- [Gladbot420](https://github.com/cjhammons/Gladbot420): Twitch chatbot to annoy myself and the people in my chat while I stream. Built on NodeJS and MongoDB
 - [DiceBot](https://github.com/cjhammons/Discord-Dice-Bot): Discord bot for simulating dice rolls, built on NodeJS.
 
 
