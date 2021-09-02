@@ -10,7 +10,7 @@
 - **Predicting Patient Readmissions with Classification**: This series of projects used multiple classification methods to predict the likelihood of a patient beind readmitted into a hospital within 30 days of initial release.
   - [Logistic Regression](https://github.com/cjhammons/Logistic-Regression-on-Medical-Data)
   - [K-Nearest Neighbor](https://github.com/cjhammons/Knn-Classification)
-  - [Decision Tree](https://github.com/cjhammons/Decision-Tree/tree)
+  - [Decision Tree](https://github.com/cjhammons/Decision-Tree)
 
 ---
 
