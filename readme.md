@@ -7,6 +7,7 @@
 - [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
 - [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/Exploratory-Data-Analysis-On-Medical-Data): Examined medical patient data using statistical techniques such as Chi-Square in JupyterLab
 - [Multiple Linear Regression on Medical Data](https://github.com/cjhammons/Multiple-Linear-Regression-on-Medical-Data): Used sklearn's Multiple Linear regression to predict the the total cost of a patient's hospital stay. 
+
 ### Predicting Patient Readmissions with Classification 
 This series of projects used multiple classification methods to predict the likelihood of a patient beind readmitted into a hospital within 30 days of initial release.
 
