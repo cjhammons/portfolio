@@ -59,7 +59,7 @@ The goal of this project was to use a provided dataset along with a dataset I fo
 - [Udacity - Full Stack Engineer](certificates/Udacity-full-stack.pdf)
 
 # Contact
-- Email: [curtis@cjhammons.com](curtis@cjhammons.com)
+- Email: curtis@cjhammons.com
 - [LinkedIn](http://linkedin.com/in/cjhammons)
 - [GitHub](http://github.com/cjhammons)
 
