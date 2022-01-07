@@ -19,7 +19,7 @@ The goal of this project was to use a provided dataset along with a dataset I fo
 
 - [Tableau Workbook](https://github.com/cjhammons/portfolio/blob/master/projects/D210-Master-Workbook.twbx)
 - [Presentation](https://www.youtube.com/watch?v=GJ_jROt7JYE)
-- [Paper](/projects/telecom-project/reflection-paper.md)
+- [Paper](/projects/telecom-project/reflection-paper.pdf)
 
 ### Other Projects
 
