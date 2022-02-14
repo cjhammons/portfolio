@@ -12,7 +12,7 @@ This series of projects used multiple classification and regression methods to p
   - [Logistic Regression](https://github.com/cjhammons/Logistic-Regression-on-Medical-Data)
   - [K-Nearest Neighbor](https://github.com/cjhammons/Knn-Classification)
   - [Decision Tree](https://github.com/cjhammons/Decision-Tree/tree)
-  - [Multiple Linear Regression](https://github.com/cjhammons/Multiple-Linear-Regression-on-Medical-Data):
+  - [Multiple Linear Regression](https://github.com/cjhammons/Multiple-Linear-Regression-on-Medical-Data)
 
 ### Telecom Customer Churn
 The goal of this project was to use a provided dataset along with a dataset I found on my own (I used one from the World Bank) to visualize data that would be useful to decision-makers at a telecom company. This was a 3 part part project consisting of building a dashboard in Tableau, building a presentation using Tableau's Story feature, and writing a paper.
@@ -25,6 +25,8 @@ The goal of this project was to use a provided dataset along with a dataset I fo
 
 - [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
 - [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/Exploratory-Data-Analysis-On-Medical-Data): Examined medical patient data using statistical techniques such as Chi-Square in JupyterLab
+- [Dimensionality Reduction using PCA](https://github.com/cjhammons/Dimensionality-Reduction-On-Medical-Data): Using Principal Component Analysis to reduce dataset features for future analysis.
+- [KMeans Clustering](https://github.com/cjhammons/KMeans-Clustering-on-Medical-Data)
 
 ---
 
