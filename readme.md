@@ -2,9 +2,7 @@
 
 ---
 
-## Academic Data Science
-
-I've had the opportunity to participate in multiple data-intensive projects while working on my Master's in Data Analytics.
+## Data Science
 
 ### Predicting Patient Readmissions 
 This series of projects used multiple classification and regression methods to predict the likelihood of a patient beind readmitted into a hospital within 30 days of initial release.
@@ -21,12 +19,16 @@ The goal of this project was to use a provided dataset along with a dataset I fo
 - [Presentation](https://www.youtube.com/watch?v=GJ_jROt7JYE)
 - [Paper](https://github.com/cjhammons/portfolio/blob/master/projects/telecom-project/reflection-paper.pdf)
 
+### Prescription drug Market Basket Analysis
+https://github.com/cjhammons/Prescription-Market-Basket-Analysis
+
 ### Other Projects
 
 - [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
 - [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/Exploratory-Data-Analysis-On-Medical-Data): Examined medical patient data using statistical techniques such as Chi-Square in JupyterLab
 - [Dimensionality Reduction using PCA](https://github.com/cjhammons/Dimensionality-Reduction-On-Medical-Data): Using Principal Component Analysis to reduce dataset features for future analysis.
 - [KMeans Clustering](https://github.com/cjhammons/KMeans-Clustering-on-Medical-Data)
+- [Prescription Drug Market Basket Analysis](https://github.com/cjhammons/Prescription-Market-Basket-Analysis)
 
 ---
 
