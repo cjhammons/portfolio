@@ -8,7 +8,7 @@
   - [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
   - [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/Exploratory-Data-Analysis-On-Medical-Data): Examined medical patient data using statistical techniques such as Chi-Square in JupyterLab
   - [Dimensionality Reduction using PCA](https://github.com/cjhammons/Dimensionality-Reduction-On-Medical-Data): Using Principal Component Analysis to reduce dataset features for future analysis.
-  - [KMeans Clustering](https://github.com/cjhammons/KMeans-Clustering-on-Medical-Data)
+  - [KMeans Clustering](https://github.com/cjhammons/KMeans-Clustering-on-Medical-Data): finding commonalites between patients
   - [Prescription Drug Market Basket Analysis](https://github.com/cjhammons/Prescription-Market-Basket-Analysis)
   - [Telecom Customer Churn](projects/telecom-churn.md): Built data dashboard and presented it.
 
