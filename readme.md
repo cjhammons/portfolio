@@ -4,14 +4,12 @@
 
 ## Data Science
 
-### Predicting Patient Readmissions 
-This series of projects used multiple classification and regression methods to predict the likelihood of a patient beind readmitted into a hospital within 30 days of initial release.
-
-  - [Logistic Regression](https://github.com/cjhammons/Logistic-Regression-on-Medical-Data)
-  - [K-Nearest Neighbor](https://github.com/cjhammons/Knn-Classification)
-  - [Decision Tree](https://github.com/cjhammons/Decision-Tree/tree)
-  - [Multiple Linear Regression](https://github.com/cjhammons/Multiple-Linear-Regression-on-Medical-Data)
-
+  - [Predicting Patient Readmissions ](projects/patient-readmissions.md)
+  - [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
+  - [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/Exploratory-Data-Analysis-On-Medical-Data): Examined medical patient data using statistical techniques such as Chi-Square in JupyterLab
+  - [Dimensionality Reduction using PCA](https://github.com/cjhammons/Dimensionality-Reduction-On-Medical-Data): Using Principal Component Analysis to reduce dataset features for future analysis.
+  - [KMeans Clustering](https://github.com/cjhammons/KMeans-Clustering-on-Medical-Data)
+  - [Prescription Drug Market Basket Analysis](https://github.com/cjhammons/Prescription-Market-Basket-Analysis)
 ### Telecom Customer Churn
 The goal of this project was to use a provided dataset along with a dataset I found on my own (I used one from the World Bank) to visualize data that would be useful to decision-makers at a telecom company. This was a 3 part part project consisting of building a dashboard in Tableau, building a presentation using Tableau's Story feature, and writing a paper.
 
@@ -24,11 +22,7 @@ https://github.com/cjhammons/Prescription-Market-Basket-Analysis
 
 ### Other Projects
 
-- [Cleaning Medical Data](https://github.com/cjhammons/Cleaning-Medical-Data): Cleaned patient medical data for use by a data science team using libraries such as numpy and pandas in JupyterLab.
-- [Exploratory Data Analysis on Medical Data](https://github.com/cjhammons/Exploratory-Data-Analysis-On-Medical-Data): Examined medical patient data using statistical techniques such as Chi-Square in JupyterLab
-- [Dimensionality Reduction using PCA](https://github.com/cjhammons/Dimensionality-Reduction-On-Medical-Data): Using Principal Component Analysis to reduce dataset features for future analysis.
-- [KMeans Clustering](https://github.com/cjhammons/KMeans-Clustering-on-Medical-Data)
-- [Prescription Drug Market Basket Analysis](https://github.com/cjhammons/Prescription-Market-Basket-Analysis)
+
 
 ---
 
