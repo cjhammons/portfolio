@@ -11,6 +11,7 @@
   - [KMeans Clustering](https://github.com/cjhammons/KMeans-Clustering-on-Medical-Data): finding commonalites between patients
   - [Prescription Drug Market Basket Analysis](https://github.com/cjhammons/Prescription-Market-Basket-Analysis)
   - [Telecom Customer Churn](projects/telecom-churn.md): Built data dashboard and presented it.
+  - [ARIMA Time Series Analysis with Hospital Revenue Data](https://github.com/cjhammons/ARIMA-Time-Series-Analysis-on-Hospital-Revenue): Forecasted future revenue using ARIMA
 
 ---
 
