@@ -38,7 +38,7 @@
 ## Formal Education
 
 - **Auburn University (2014-2017)**: Bachelor of Science in Computer Science
-- **Western Governors University (2020-in progress)**: Master of Science in Data Analytics
+- **Western Governors University (2020-2022)**: Master of Science in Data Analytics
 
 ---
 
