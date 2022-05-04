@@ -13,6 +13,7 @@
   - [Telecom Customer Churn](projects/telecom-churn.md): Built data dashboard and presented it.
   - [ARIMA Time Series Analysis with Hospital Revenue Data](https://github.com/cjhammons/ARIMA-Time-Series-Analysis-on-Hospital-Revenue): Forecasted future revenue using ARIMA
   - [Sentiment Analysis using a Neural Network](https://github.com/cjhammons/Sentence-Sentiment-Analysis-of-Reviews): Using review data from multiple sources, trained a Neural Network with TensorFlow to generally classify positive or negative sentiment. 
+  - [Climate Change Equity](https://github.com/cjhammons/Climate-Change-Equity-Study/tree/main): The purpose of this study was to see if there is a correlation between a country's CO2 emissions and their change in average temperature from 1960-2018
 
 ---
 
