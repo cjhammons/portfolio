@@ -53,4 +53,4 @@
 - [GitHub](http://github.com/cjhammons)
 
 # Resume
-[Resume](https://drive.google.com/file/d/1-6Pga6KFaOTGhnHQ2aEdXN5ZtsgWoMYf/view?usp=sharing)
+[Resume](https://raw.githubusercontent.com/cjhammons/portfolio/blob/master/certificates/Curtis%20Hammons%20Resume%20DS.pdf)
