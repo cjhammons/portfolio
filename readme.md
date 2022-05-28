@@ -27,6 +27,13 @@
 
 ---
 
+## Android
+
+- [Construction Online Mobile](https://play.google.com/store/apps/details?id=onsiteplanroom.uda.hybrid): Project management app targeted at construction firms
+- [eQuip](https://github.com/cjhammons/eQuip-Android): App to connect people who want to share outdoor equipment
+
+---
+
 ## Bots
 
 - [Gladbot420](https://github.com/cjhammons/Gladbot420): Twitch chatbot to annoy myself and the people in my chat while I stream. Built on NodeJS and MongoDB, hosted on Heroku.
