@@ -1,6 +1,43 @@
-# Projects
+# Experience
 
----
+## Boingo Wireless - Data Engineer
+
+### Maintaining Event API
+
+I am currently maintaining the company's primary ETL pipeline. This pipeline ingests raw events and loads them into our datalake in Snowflake. It also sends them to Datadog for log ingestion.
+
+The ETL is written in Go, and is deployed via Docker container to a Kubernetes cluster. As of Summer 2023 this cluster is in AWS EKS, but it is being moved to GCP GKE. 
+
+### Migration from AWS to GCP
+
+The main directive for Boingo engineering for the year 2023 is to migrate all of our cloud infrastructure from AWS to GCP. This is a massive undertaking, as it involves learning what the GCP equivalents are for AWS services and then adapting existing AWS code to work with a GCP environment.
+
+### Python ETLs in Jenkins
+
+Designed and implemented ETL processes using Python to synchronize data between BambooHR and AdaptiveWork through our Snowflake data lake, enhancing the efficiency of Boingo's operations team.
+
+
+## Google - Data Analyst (Contract)
+
+### GMentors
+
+Authored complex SQL queries using GoogleSQL for G-mentors, an internal mentoring platform for Google employees, extracting and manipulating data. Created dynamic dashboards using an internal version of Google Data Studio, providing clear insights to stakeholders involved in G-mentors.
+
+## eQuip - Fullstack Engineer
+
+### eQuip Android Application
+Worked with UX designer to develop Android application. Integrated Firebase into Android for database access. 
+
+### eQuip Backend
+
+Stood up backend services using Google Cloud Platform and Firebase, using Firestore as a database and Cloud Functions to process app logic.
+
+## UDA Technologies - Software Engineer (Co-Op)
+
+### Construction Online Mobile
+Consulted with UX designer to create user-friendly Android application that extended the company's webapp (construction online) to mobile. Used Retrofit and RxJava to interact with REST API to retrieve user data
+
+# Additional Projects
 
 ## Data Science
 
@@ -60,4 +97,4 @@
 - [GitHub](http://github.com/cjhammons)
 
 # Resume
-[Resume](https://raw.githubusercontent.com/cjhammons/portfolio/blob/master/certificates/Curtis%20Hammons%20Resume%20DS.pdf)
+[Resume](https://docs.google.com/document/d/1poEClGbZwXNUl2MnzK_0wMarxb__Wh8ljKmF5uUjIm0/edit?usp=sharing)
