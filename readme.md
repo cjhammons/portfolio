@@ -39,6 +39,13 @@ Consulted with UX designer to create user-friendly Android application that exte
 
 # Additional Projects
 
+## API / Backend
+
+- [Nommer](https://github.com/cjhammons/nommer): Data Ingestion API written in Go. Processes data and stores it in a MongoDB instance
+- [Casting Agency](https://github.com/cjhammons/casting-agency): API for running a casting agency built on flask and using Auth0 for managing roles.
+- [eQuip Backend](https://github.com/cjhammons/eQuip-Cloud-Functions): Backend webservices for an app that lets users rent out outdoor equipment. Built on google's GCP (formerly Firebase) using NodeJS.
+
+
 ## Data Science
 
   - [Predicting Patient Readmissions ](projects/patient-readmissions.md): Predicting the chance of a patient being prematurely readmitted to a hospital.
@@ -59,8 +66,6 @@ Consulted with UX designer to create user-friendly Android application that exte
 - [Fyyur](https://github.com/cjhammons/fyyur): Platform for artists and musical venues to connect built on flask.
 - [Trivia API](https://github.com/cjhammons/trivia_api): API for running a trivia game built on flask.
 - [Coffee Shop](https://github.com/cjhammons/CoffeeShop): API for a coffee shop built on flask using Auth0 for managing roles.
-- [Casting Agency](https://github.com/cjhammons/casting-agency): API for running a casting agency built on flask and using Auth0 for managing roles.
-- [eQuip Backend](https://github.com/cjhammons/eQuip-Cloud-Functions): Backend webservices for an app that lets users rent out outdoor equipment. Built on google's GCP (formerly Firebase) using NodeJS.
 
 ---
 
